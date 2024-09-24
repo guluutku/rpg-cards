@@ -326,13 +326,18 @@
     border-color: #d8c483;
 }
 
+.card-p2e-trait-rare {
+    background-color: #200488;
+    border-color: #d8c483;
+}
+
 .card-p2e-trait-alignment {
     background-color: #576294;
     border-color: #d8c483;
 }
 
 .card-p2e-trait-size {
-    background-color: #3A7B58;
+    background-color: rgb(9, 150, 58);
     border-color: #d8c483;
 }
 
